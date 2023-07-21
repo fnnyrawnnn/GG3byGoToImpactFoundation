@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b41a"
+  },
+  "title": "Tetap Dalam Jiwa",
+  "artist": "Isyana Sarasvati",
+  "album": "Explore!"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b41b"
+  },
+  "title": "Menunggu Kamu",
+  "artist": "Anji",
+  "album": "Single"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b41c"
+  },
+  "title": "Separuh Nafas",
+  "artist": "Dewa 19",
+  "album": "Pandawa Lima"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b41d"
+  },
+  "title": "Mata Ke Hati",
+  "artist": "Hivi!",
+  "album": "Say Hi! To Hivi!"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b41e"
+  },
+  "title": "Kasih Tak Sampai",
+  "artist": "Padi",
+  "album": "Save My Soul"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b41f"
+  },
+  "title": "Aku Lelakimu",
+  "artist": "Virzha",
+  "album": "Satu"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b420"
+  },
+  "title": "Biarlah",
+  "artist": "Killing Me Inside",
+  "album": "One Reason"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b421"
+  },
+  "title": "Jatuh Cinta Lagi",
+  "artist": "Mulanya Disini",
+  "album": "Single"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b422"
+  },
+  "title": "Sampai Jumpa",
+  "artist": "Endank Soekamti",
+  "album": "Kolaborasoe"
+},
+{
+  "_id": {
+    "$oid": "64baab141495fa5f25e9b423"
+  },
+  "title": "Jika",
+  "artist": "Melly Goeslaw feat. Ari Lasso",
+  "album": "OST. Ada Apa Dengan Cinta?"
+}]

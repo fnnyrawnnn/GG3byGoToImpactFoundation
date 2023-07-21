@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b424"
+  },
+  "name": "Isyana Sarasvati",
+  "birthDate": "2 May 1993",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b425"
+  },
+  "name": "Anji",
+  "birthDate": "24 March 1979",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b426"
+  },
+  "name": "Ari Lasso",
+  "birthDate": "17 January 1973",
+  "genre": "Pop/Rock"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b427"
+  },
+  "name": "Raisa",
+  "birthDate": "6 June 1990",
+  "genre": "Pop/R&B"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b428"
+  },
+  "name": "Glenn Fredly",
+  "birthDate": "30 September 1975",
+  "genre": "Pop/R&B/Soul"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b429"
+  },
+  "name": "Andmesh Kamaleng",
+  "birthDate": "12 August 1996",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b42a"
+  },
+  "name": "Judika",
+  "birthDate": "31 August 1978",
+  "genre": "Pop/Rock"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b42b"
+  },
+  "name": "Tulus",
+  "birthDate": "20 August 1987",
+  "genre": "Pop"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b42c"
+  },
+  "name": "Agnes Monica",
+  "birthDate": "1 July 1986",
+  "genre": "Pop/R&B/Dance"
+},
+{
+  "_id": {
+    "$oid": "64baaba51495fa5f25e9b42d"
+  },
+  "name": "Bunga Citra Lestari",
+  "birthDate": "22 March 1983",
+  "genre": "Pop"
+}]
